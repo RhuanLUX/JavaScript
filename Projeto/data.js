@@ -29,6 +29,7 @@ export const produtos = [
     {
         id: 4,
         nome: 'nome produto D',
+        tipo: 'Indica',
         quantidade: 7000, // em gramas
         preco: 25.00,  // por grama
         imagem: '', // caminho da imagem
@@ -37,6 +38,7 @@ export const produtos = [
     {
         id: 5,
         nome: 'nome produto E',
+        tipo: 'Indica',
         quantidade: 7000, // em gramas
         preco: 30.00,  // por grama
         imagem: '', // caminho da imagem

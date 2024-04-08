@@ -29,3 +29,8 @@ function filteredProductByPrice() {
 function compareProduct(params) {
     
 }
+
+// Criar um funcao para THC
+function getProductByTHC(THC){
+
+}

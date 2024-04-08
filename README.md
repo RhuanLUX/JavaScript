@@ -2,7 +2,7 @@
 
 ### Checklist de javascript
 
-* [X]  1 Estrutura de dados
+* [ ]  1 Estrutura de dados
 * [ ]  2 Estrutura de condições
 * [ ]  3 Estrutura de repetições
 * [ ]  4 Funções

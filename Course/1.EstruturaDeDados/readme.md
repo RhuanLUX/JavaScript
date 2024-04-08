@@ -1,10 +1,10 @@
 **Estrutura de dados**
 
-* [X]  let, const, var
-* [X]  strings, numbers, booleans
-* [X]  array, objetos
-* [X]  undefined, null
-* [X]  json
+* [ ]  let, const, var
+* [ ]  strings, numbers, booleans
+* [ ]  array, objetos
+* [ ]  undefined, null
+* [ ]  json
 
 ##### Anotações
 
