@@ -34,3 +34,8 @@ function compareProduct(params) {
 function getProductByTHC(THC){
 
 }
+
+// Criar um filtro Promoção
+function getProductByTHC(THC){
+
+}
