@@ -7,7 +7,7 @@ export const produtos = [
         preco: 10.00,  // por grama
         imagem: '', // caminho da imagem
         title: '', // descrição
-        thc: '', // THC do item
+        thc: '20.2', // THC do item
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ export const produtos = [
         preco: 15.00,  // por grama
         imagem: '', // caminho da imagem
         title: '', // descrição
-        thc: '', // THC do item
+        thc: '18.5', // THC do item
     },
     {
         id: 3,
@@ -27,7 +27,7 @@ export const produtos = [
         preco: 20.00,  // por grama
         imagem: '', // caminho da imagem
         title: '', // descrição
-        thc: '', // THC do item
+        thc: '12.3', // THC do item
     },
     {
         id: 4,
@@ -37,7 +37,7 @@ export const produtos = [
         preco: 25.00,  // por grama
         imagem: '', // caminho da imagem
         title: '', // descrição
-        thc: '', // THC do item
+        thc: '7.8', // THC do item
     },
     {
         id: 5,
@@ -47,6 +47,6 @@ export const produtos = [
         preco: 30.00,  // por grama
         imagem: '', // caminho da imagem
         title: '', // descrição
-        thc: '', // THC do item
+        thc: '9.4', // THC do item
     },
 ];

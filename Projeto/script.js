@@ -11,7 +11,7 @@ function getAllProducts() {
     console.log ()
 // Abaixo - Estrutura de Repição para não ter que escrever o código para retornar todos os dados manualmente. (Comando 'Forof')
     for (const element of produtos) { 
-        console.log ("Nossa Erva", element.nome, "Custa", element.preco)
+        console.log ("Nossa Erva", element.nome, "Custa", element.preco, "e tem o THC de", element.thc,'%')
     }
 
 }
