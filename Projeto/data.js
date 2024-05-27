@@ -37,7 +37,7 @@ export const produtos = [
         preco: 25.00,  // por grama
         imagem: '', // caminho da imagem
         title: '', // descrição
-        thc: '7.8', // THC do item
+        thc: '8.8', // THC do item
     },
     {
         id: 5,
@@ -47,6 +47,6 @@ export const produtos = [
         preco: 30.00,  // por grama
         imagem: '', // caminho da imagem
         title: '', // descrição
-        thc: '9.4', // THC do item
+        thc: '8.0', // THC do item
     },
 ];
